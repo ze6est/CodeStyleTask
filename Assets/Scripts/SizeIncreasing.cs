@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class IncreasingSize : MonoBehaviour
+public class SizeIncreasing : MonoBehaviour
 {
     [SerializeField] private float _increasingSizeSpeed;
     [SerializeField] private bool _isGameOn;
